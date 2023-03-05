@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da515705201aaab4f94438149ac2ccdc, type: 3}
+  m_Name: ship-2
+  m_EditorClassIdentifier: 
+  player_has_ship: 0
+  ship_name: Byner
+  Cost: 300
+  Cost_type: 0
+  base_attack_damage: 115
+  base_hp: 1500
+  base_hp_regen: 2
+  fire_rate: 2
+  fire_range: 10
+  drones: []
+  laser_weapon_max_slot: 0
+  lasers: []
+  speed: 370
+  max_stone: 120
+  max_laser_green: 100
+  max_laser_blue: 50
+  max_laser_yellow: 10
+  max_laser_orange: 0
+  max_laser_aqua: 0

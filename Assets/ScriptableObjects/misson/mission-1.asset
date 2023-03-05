@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7fe9709d249fb4d8b59451990e10b1, type: 3}
+  m_Name: mission-1
+  m_EditorClassIdentifier: 
+  questtype:
+    _questtype: 0
+    target: 10
+    current: 0
+  id_mission: 0
+  is_active_mission: 0
+  title_mission: Garyum Collector I
+  explain_mission: 10 Adet garyum topla
+  garyum_reward: 0
+  nabilium_reward: 0
+  xerat_reward: 0
+  space_credit_reward: 25
+  rank_point_reward: 10
+  paradium_reward: 5

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da515705201aaab4f94438149ac2ccdc, type: 3}
+  m_Name: ship-6
+  m_EditorClassIdentifier: 
+  player_has_ship: 0
+  ship_name: Lipal
+  Cost: 175
+  Cost_type: 1
+  base_attack_damage: 200
+  base_hp: 2200
+  base_hp_regen: 5
+  fire_rate: 1.7
+  fire_range: 0
+  drones:
+  - {fileID: 0}
+  - {fileID: 0}
+  laser_weapon_max_slot: 0
+  lasers: []
+  speed: 450
+  max_stone: 260
+  max_laser_green: 150
+  max_laser_blue: 50
+  max_laser_yellow: 50
+  max_laser_orange: 40
+  max_laser_aqua: 20

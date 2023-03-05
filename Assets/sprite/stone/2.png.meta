@@ -1,0 +1,1037 @@
+fileFormatVersion: 2
+guid: 78ece85e6eae98944a3a5a28e76b3162
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 738
+        width: 129
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c201e759abb4cfc45b7288ff08777580
+      internalID: -1823995841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 740
+        width: 82
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e653b8acba9964e8ba55f0815eccca
+      internalID: 1062319812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 764
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf871da6bc95834c814829bbf7061ac
+      internalID: 977200194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 802
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547bddf1ee9d3884da747023e2772b11
+      internalID: 90327192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 732
+        width: 135
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a8443067c97a41b0fd497d1b9fc65
+      internalID: 1345533168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 735
+        width: 161
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ee04d0db8d14c4e9ac3a1339b99a13
+      internalID: 1592847425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 748
+        width: 99
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bda934264fdc649a6e43bd7f89a31d
+      internalID: -419570467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 535
+        width: 112
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16036afc30d15b24ebefbb942e5f7e79
+      internalID: -2139734806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 530
+        width: 163
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b6011adf52941478aa4de3002273fa
+      internalID: 1560248581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 536
+        width: 156
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5589d2a7edf8f7343876bc1ac1aa33b6
+      internalID: 1909096412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 546
+        width: 135
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a2d4ccc3437647aa02799e4682b51
+      internalID: -457245087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 534
+        width: 151
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26bbd7b7c71ef2498af206f9b6e326a
+      internalID: -1904983936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 347
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfb9b2e6f03e384691436fc8cd1f460
+      internalID: 1284569402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 340
+        width: 132
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2528a8e92850e1b40b71c7918741ee4f
+      internalID: 699139488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 352
+        width: 132
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231dde789e10f5b4797c6b035302a7cf
+      internalID: 1150467045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 437
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6b1563099a1594198c4b1a57cb6223
+      internalID: -961941181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 411
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6354ec1c3652ac246967bfda3296933b
+      internalID: -1332870976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 410
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5431a616666cb642b79dc300c1674a4
+      internalID: 1350252528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 456
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece064d0e0c7da043acaa75e7eebe3b6
+      internalID: -394070504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 362
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f030534ccfe0242957ab8740eb70f0
+      internalID: -1888566923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 342
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bf6cfaa5bb9034a982a4c6f730a0d4
+      internalID: 1450891452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 379
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd5d3ff3db66e741bf4afb37d0102c3
+      internalID: -1188145385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 331
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b11e6fd397223428de565ce1f80c1f
+      internalID: 1661991189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 317
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25de40ae3b5dd8b43a77c48a5496de02
+      internalID: -2088179477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 231
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e3ea05cbb154646be497363d0f7f78
+      internalID: -699114066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 251
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7715f6855677f0840a37104c315e9955
+      internalID: 1596684077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 254
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a901141dfe6f384bb8fcf7e0829dff9
+      internalID: 204334018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 158
+        width: 132
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec17da26633747249956f95c2b759135
+      internalID: 1889263671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 246
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09456a2a8438a4c469fcc9fd5d8ba9e2
+      internalID: 1583134467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_29
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 259
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd64cb702d0278468b730384cbaff70
+      internalID: 922620524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 168
+        width: 124
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845fd444ab1c2264898d9322f3b18b22
+      internalID: -539321355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_31
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 175
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5d5735a7e91b4d94ede92b876ee11
+      internalID: -852043333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 242
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e4337a8b33add448316db4f503797b
+      internalID: 1415110002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 226
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a670cffd3c669014899a0c211d9125d3
+      internalID: -1690376992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 195
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a58e31749d92ae40b99767335e4bb86
+      internalID: 1449896829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 170
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0496014403d0e741a2ccef1a50f1b09
+      internalID: 829973881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_36
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 167
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2217d842c873e48a184a9cc0a3e9d8
+      internalID: 1617548524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_37
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 204
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357967b45348e7d46b8db4348b3c6a5b
+      internalID: 1524034436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_38
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 215
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbbad9d615e048479c68ff4e7ff23eb
+      internalID: -143784103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 161
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a303e964ed6d94d9b68d60f108784a
+      internalID: -1992671457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_40
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 154
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6730ddf5c1977448786ad7c26e94a9
+      internalID: -1847553713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_25: 1596684077
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_28: 1583134467
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_36: 1617548524
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_27: 1889263671
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_1: 1062319812
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_9: 1909096412
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_0: -1823995841
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_2: 977200194
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_8: 1560248581
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_18: -394070504
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_34: 1449896829
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_4: 1345533168
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_14: 1150467045
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_37: 1524034436
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_21: -1188145385
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_32: 1415110002
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_20: 1450891452
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_38: -143784103
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_5: 1592847425
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_30: -539321355
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_12: 1284569402
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_3: 90327192
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_15: -961941181
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_24: -699114066
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_23: -2088179477
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_35: 829973881
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_7: -2139734806
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_39: -1992671457
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_17: 1350252528
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_10: -457245087
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_11: -1904983936
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_29: 922620524
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_19: -1888566923
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_33: -1690376992
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_13: 699139488
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_16: -1332870976
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_26: 204334018
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_6: -419570467
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_22: 1661991189
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_31: -852043333
+      alshain_rare_outer_space_stones_pixel_art_2d_spritesheet_3d6ba6d0-9e0e-41a7-981f-c523a921bdd3-PhotoRoom.png-PhotoRoom_40: -1847553713
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

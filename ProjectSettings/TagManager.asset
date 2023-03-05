@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - garyum
+  - parium
+  - xerat
+  - station
+  - stone
+  - jackpot
+  - oyun_alani_destroy
+  - oyun_alani_uyari
+  - player_laser
+  - enemy_laser
+  - player_ship_range
+  - enemy
+  - enemy_jackpot
+  - ship_shop
+  - stone_shop
+  - laser_shop
+  - Garyums_Parent
+  - Jackpots_Parent
+  - Nabiliums_Parent
+  - Xerats_Parent
+  - Celarids_Parent
+  - Dilbians_Parent
+  - panel_crr_hp
+  - panel_crr_hp_bar
+  - z
+  - repair_robot
+  - missile
+  - out
+  - in
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - minimap
+  - enemy
+  - player
+  - warning_arrow
+  - max
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
