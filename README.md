@@ -8,7 +8,7 @@ There are 6 different laser types and 4 rocket types available at the moment. Th
 
 Various systems are in place, including a mission system, a save system, and systems to keep track of game logs. The game also incorporates different effects such as particle effects and parallax.
 
-## In the game
+## In-Game Screenshots
 ![Ekran Görüntüsü](./Assets/ScreenShot/1.png)
 ![Ekran Görüntüsü](./Assets/ScreenShot/2.png)
 ![Ekran Görüntüsü](./Assets/ScreenShot/3.png)
